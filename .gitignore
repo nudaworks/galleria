@@ -1,0 +1,17 @@
+# ide
+.idea/
+
+# deps
+node_modules/
+
+# logs
+.log$
+
+# devfiles
+devfiles/
+
+# compiled
+dist/
+
+# local
+local.*
